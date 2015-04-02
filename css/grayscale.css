@@ -255,6 +255,12 @@ a:focus {
     padding-top: 100px;
 }
 
+.about-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+}
+
 .media-section {
     width: 100%;
     padding: 50px 0;
@@ -348,6 +354,13 @@ footer {
 
 footer p {
     margin: 0;
+    color: #A4A4A4;
+    font-family: cursive;
+}
+
+footer p a {
+    color: #E6E6E6;
+    font-family: cursive;
 }
 
 ::-moz-selection {
